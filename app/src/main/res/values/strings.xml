@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ViewImages</string>
+    <string name="image_url">image url</string>
+    <string name="search">search</string>
+    <string name="recent_images">recent images</string>
+    <string name="foundImage">find_image</string>
+</resources>

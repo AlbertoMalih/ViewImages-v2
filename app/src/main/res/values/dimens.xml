@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="all_images_margin">8dp</dimen>
+    <dimen name="main_activity_margin">3dp</dimen>
+    <dimen name="imageUrl_margin">10dp</dimen>
+    <dimen name="imageView_margin">8dp</dimen>
+    <dimen name="adaptive_size">0dp</dimen>
+    <dimen name="image_item_margin_bottom">2dp</dimen>
+</resources>
